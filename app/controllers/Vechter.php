@@ -15,7 +15,7 @@ class Vechter extends BaseController
             'title' => 'Best fighters from ufc, pound for pound'
         ];
 
-        $this->view('Vechters/index', $data);
+        $this->view('Vechter/index', $data);
     }
 
 
