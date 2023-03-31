@@ -1,2 +1,2 @@
 <h3><?= $data['title']; ?></h3>
-<a href="./Vechters/getVechters">Top 5 rijkste zangeressen ter wereld</a>
+<a href="/P3/mvc-oop-herkansing-335055/public/getVechters">Top 5 best fighters in the ufc</a>
